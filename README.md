@@ -9,9 +9,9 @@ A user-focused platform that allows users to create an account and share posts w
 
 ## Demo
 
-![LoginPage](./00-practice-app/pictures/DevPal%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%202023-04-03%204_48_20%20PM.png)
+![LoginPage](./picutre/DevPal%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%202023-04-03%204_48_20%20PM.png)
 
-![HomePage](./00-practice-app/pictures/DevPal%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%202023-04-03%204_48_28%20PM.png)
+![HomePage](./picutre/DevPal%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%202023-04-03%204_48_28%20PM.png)
 
 
 
